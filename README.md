@@ -1,6 +1,8 @@
 <div align="center">
 
    <img align="left" width="360" height="512" alt="bd3942426160111c3b1a9c380759ff12-removebg-preview" src="https://github.com/user-attachments/assets/03c42d20-a0bc-40f7-a1bd-549973239697" />
+
+   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&duration=4250&pause=1000&color=752C40&center=true&vCenter=true&width=435&lines=What+I+need+is+a+good+defense;'Cause+I'm+feeling+like+a+criminal;And+I+need+to+be+redeemed;To+the+one+I've+sinned+against;Because+he's+all+I+ever+knew+of+love)](https://git.io/typing-svg)
 <table>
   <tr>
       <td width="50%" valign="top">
