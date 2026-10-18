@@ -6,11 +6,11 @@
       <td width="50%" valign="top">
     <div align="center">
 
- ![](https://komarev.com/ghpvc/?username=dexsnorthstar&label=𝜗ৎ%20&base=0&color=493abb&style=flat-square)
+ ![](https://komarev.com/ghpvc/?username=dexsnorthstar&label=𝜗ৎ%20&base=0&color=BBADA4&style=flat-square)
  
 valorie
 
-seventeen ⨂ it/eng
+seventeen 🎯 it/eng
 
 <details>
   <summary>dni</summary>
@@ -55,4 +55,3 @@ and more, my memory is just shit. ill update later
 s-ata for skintrades... i need dex skins hello sailor
   </tr>
 </table>
-
