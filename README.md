@@ -6,7 +6,7 @@
       <td width="50%" valign="top">
     <div align="center">
 
- ![](https://komarev.com/ghpvc/?username=dexsnorthstar&label=𝜗ৎ%20&base=1293&color=8C7E87&style=flat-square)
+ ![](https://komarev.com/ghpvc/?username=dexsnorthstar&label=𝜗ৎ%20&base=0&color=493abb&style=flat-square)
  
 valorie
 
